@@ -1,2 +1,2 @@
 # OCR-YOLO
-errors havent been fixed, the computer and processor are facing issues
+End-to-end Automatic Number Plate Recognition system using Roboflow for training dataset, YOLOv8 for license plate detection, and OCR for text recognition from images and videos.
